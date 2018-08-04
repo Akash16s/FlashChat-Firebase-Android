@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "249126563550",
+    "firebase_url": "https://skylab-f2286.firebaseio.com",
+    "project_id": "skylab-f2286",
+    "storage_bucket": "skylab-f2286.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249126563550:android:3f6d62d6f2ed7112",
+        "android_client_info": {
+          "package_name": "com.skyLab.flashchatnewfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "249126563550-qdhcqvrocna3ma45ks9t1c0eo3cjhvr7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC468cCmON5Kv4DvlC0aeUZn8Nl5Egomr8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

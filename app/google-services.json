@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "249126563550-rlgg3dd038iqhmc7uigpn3ac5ddu7bjq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.skyLab.flashchatnewfirebase",
+            "certificate_hash": "24e54b62abdec2fe806db5fdbf1d1f18bbc7df97"
+          }
+        },
+        {
           "client_id": "249126563550-qdhcqvrocna3ma45ks9t1c0eo3cjhvr7.apps.googleusercontent.com",
           "client_type": 3
         }
@@ -29,8 +37,13 @@
           "status": 1
         },
         "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "249126563550-qdhcqvrocna3ma45ks9t1c0eo3cjhvr7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         },
         "ads_service": {
           "status": 2

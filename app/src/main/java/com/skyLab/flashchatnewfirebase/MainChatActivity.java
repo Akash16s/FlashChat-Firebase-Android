@@ -36,6 +36,7 @@ public class MainChatActivity extends AppCompatActivity {
         // TODO: Set up the display name and get the Firebase reference
         setupDisplayName();
         mDatabaseReference = FirebaseDatabase.getInstance().getReference();
+
         // Link the Views in the layout to the Java code
         mInputText = (EditText) findViewById(R.id.messageInput);
         mSendButton = (ImageButton) findViewById(R.id.sendButton);
@@ -46,7 +47,7 @@ public class MainChatActivity extends AppCompatActivity {
             @Override
             public boolean onEditorAction(TextView v, int actionId, KeyEvent event) {
                 sendMessage();
-                return false;
+                return true;
             }
         });
 
